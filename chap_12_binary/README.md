@@ -1,7 +1,7 @@
 # Binary Number
 
-![an image](https://img.shields.io/badge/-BINARY\sNUMBER-blue)
+![an image](https://img.shields.io/badge/-BINARYNUMBER-blue)
 
-`#0969DA` Binary `#0969DA` numbers are those which is **2-based** numbers.
+We use 10-based DECIMAL **_DECIMAL_** Numbers in our day to day life. But computer uses 2-Based **BINARY** number system.
 
-> THIS IS A QUOTE!!
+> There are only two numbers in binary number system. which are 1 and 0.
