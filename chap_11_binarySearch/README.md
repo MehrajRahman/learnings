@@ -1,8 +1,13 @@
-# Binary Number
+# BINARY SEARCH
 
-![an image](https://img.shields.io/badge/-BINARYNUMBER-blue)
+## Binary Search is a method for searching an element from a sorted list/array.
 
-We use 10-based **_DECIMAL_** Numbers in our day to day life. But computer uses 2-Based **_BINARY_** number system. :thought_balloon:
+![an image](https://img.shields.io/badge/-BINARYSEARCH-blue)
+
+First of all, we will have to know 3 numbers. The lower, higher and that particular number we want to search.
+
+Let's assume we are playing a game of guessing a number inside the range of 1 to 1000.
+Here the lower range is 1 and upper range is 1000.
 
 > There are 10 digits available in Decimal system, which are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 but only two in binary 1 and 0.
 
